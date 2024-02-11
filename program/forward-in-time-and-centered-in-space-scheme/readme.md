@@ -1,7 +1,7 @@
 # Computational-Fluid-Dynamics - Forward-in-Time-and-Centered-in-Space-Scheme
 ## Algorithm
 $$
-	u[tc, xc] = c \frac{dt}{dx} (u[tc - 1, xc + 1] - u[tc - 1, xc - 1])
+	u_{tc, xc} = c \frac{dt}{dx} (u_{tc - 1, xc + 1} - u_{tc - 1, xc - 1})
 $$
 
 |	Name	|	Value	|	Description		|
