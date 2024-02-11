@@ -15,7 +15,7 @@ $$
 |	c	|	0.1	|	Transport Velocity	|
 
 $$
-Courant Number = c \frac{dt}{dx} = 1.0
+	Courant Number = c \frac{dt}{dx} = 1.0
 $$
 
 ## Execution
