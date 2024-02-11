@@ -6,9 +6,9 @@
 |	dx	|	0.01	|			|
 |	c	|	0.1	|			|
 
-\begin{math}
-	CFL = c \frac{dt}{dx} = 1.0
-\end{math}
+$$
+CFL = c \frac{dt}{dx} = 1.0
+$$
 
 ## Execution
 ```
