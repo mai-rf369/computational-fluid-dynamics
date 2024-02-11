@@ -7,7 +7,7 @@
 |	c	|	0.1	|			|
 
 $$
-CFL = c \frac{dt}{dx} = 1.0
+Courant Number = c \frac{dt}{dx} = 1.0
 $$
 
 ## Execution
