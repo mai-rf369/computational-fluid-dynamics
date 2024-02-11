@@ -1,7 +1,7 @@
 # Computational-Fluid-Dynamics - Forward-in-Time-and-Centered-in-Space-Scheme
 ## Algorithm
 $$
-	u_{t, x} = c dt \frac{(u_{t - 1, x + 1} - u_{t - 1, x - 1})}{2 dx}
+	u_{t, x} = c \frac{dt}{2 dx} (u_{t - 1, x + 1} - u_{t - 1, x - 1})
 $$
 
 |	Name	|	Value	|	Description		|
